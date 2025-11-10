@@ -1,2 +1,3 @@
 # atividade2-sexta
-Avaliacao Sexta 2 
+
+As justificativas de cada questao estao dentro de suas respectivas pastas.
